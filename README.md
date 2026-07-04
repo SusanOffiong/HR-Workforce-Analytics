@@ -1,4 +1,4 @@
-# 👥 HR Workforce Analytics
+# HR Workforce Analytics
 
 > **Data Analytics Case Study | Human Resources**
 
